@@ -1,0 +1,3 @@
+// FIELDS GATE;ICAO;LAT;LON;TYPE;  / TYPES -> L,M,H (Light, Medium , Heavy)
+
+H;SESM;S001.30.14.441;W078.03.57.881;

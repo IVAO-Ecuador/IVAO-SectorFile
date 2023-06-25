@@ -1,0 +1,17 @@
+// SEII STARs
+// Auto-generated 21/1/2022 by Wes Sleeman (XA)
+
+// SEII Approaches
+
+
+//// NDB35 ////
+SEII;35;NDB35;SEII;SEII;3;
+FF35;FF35;<br>;
+FF35;FF35;@2000;
+EP35;EP35;@80;
+IBL;IBL;^440;
+
+SEII;35;GA NDB35;SEII;SEII;5;
+IBL;IBL;<br>;
+IBL;IBL;^4000 @140K;
+//// END NDB35 ////
