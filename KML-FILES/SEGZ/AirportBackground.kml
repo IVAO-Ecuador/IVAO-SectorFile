@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>AirportBackground.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>AirportBackground</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.5642893058702,-3.431157764615087,0 -78.56397189705336,-3.431847158456274,0 -78.56366746287223,-3.431796475957875,0 -78.56338234854655,-3.431763340176333,0 -78.56314232053505,-3.431728647577421,0 -78.56296925427098,-3.431630588477854,0 -78.56280087820684,-3.431450910637174,0 -78.56267997210028,-3.431226872756171,0 -78.56266431541566,-3.43106155398784,0 -78.56271525177914,-3.430887507904944,0 -78.56288884248531,-3.430462595537368,0 -78.56463189558387,-3.426593288898331,0 -78.56841377084723,-3.417957820765025,0 -78.5688543014051,-3.417237903232439,0 -78.56927394121752,-3.416689237512857,0 -78.56979879832841,-3.416149541423103,0 -78.57015519077443,-3.415675463330604,0 -78.5704292060223,-3.4150877948244,0 -78.57053725779248,-3.414842499311731,0 -78.57063551324627,-3.414613372114478,0 -78.5715253852164,-3.414981264205956,0 -78.5642893058702,-3.431157764615087,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

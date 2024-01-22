@@ -1,6 +1,6 @@
 //Radar sector: SEFG_CTR
 //Version:  20.11
-//Built By: Santiago Idárraga (598172)
+//Built By: Santiago Idarraga (598172) & Daniel Guerrero (663838)
 //----------------------------------------------------
 //IvAc Sectorfile Format v1.04                   
 //RESTRICTED USE OUT OF IVAO NETWORK                
@@ -67,6 +67,7 @@ F;GEO\MOUNTAINS.GEO
 F;GEO\MOUNTAINSLABEL.GEO
 
 ////////////////////////////////////////////////////////
+F;AIRPORTS\SEGZ\SEGZ.GEO
 F;AIRPORTS\SETA\SETA.GEO
 F;AIRPORTS\SEAM\SEAM.GEO
 F;AIRPORTS\SEBZ\SEBZ.GEO
@@ -102,6 +103,7 @@ F;AIRSPACE\SEFG.PRD
 // GENERAL
 F;FCL\SEFG.FCL
 ////////////////////////////////////////////////////////
+F;AIRPORTS\SEGZ\SEGZ.TFL
 F;AIRPORTS\SETA\SETA.TFL
 F;AIRPORTS\SEAM\SEAM.TFL
 F;AIRPORTS\SEBZ\SEBZ.TFL
